@@ -1,8 +1,6 @@
 # Data Analyst Internship at ElevateLabs - Task 1
 
-Downloaded the sales_data.csv from Kaggle [https://www.kaggle.com/datasets/imranlukman/amazon-online-sales-dataset]
-
-Then the process of Data cleaning was performed using the pandas module in the Python programming language as follows:
+Downloaded the sales_data.csv from Kaggle [https://www.kaggle.com/datasets/imranlukman/amazon-online-sales-dataset] then the process of Data cleaning was performed using the pandas module in the Python programming language as follows:
 
 1. The sales_data.csv file was imported into the python program by using read_csv() function from pandas module
 2. The Null values were removed from the dataset using the dropna() function
